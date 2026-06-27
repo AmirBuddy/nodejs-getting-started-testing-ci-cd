@@ -1,13 +1,3 @@
 {
-  "app": "alsjhdjd232",
-  "port": 3000,
-  "node": {
-    "mirror": true,
-    "timezone": "America/Los_Angeles",
-    "version": "22"
-  },
-  "build": {
-    "location": "iran"
-  },
-  "disks": []
+  "port": 3000
 }
